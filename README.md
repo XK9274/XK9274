@@ -1,8 +1,6 @@
-# Welcome to My GitHub Profile! 🚀
+# Hello! 🚀
 
 ## About Me
-
-Hello!
 
 - 🌱 I’m currently learning **C/C++**.
 - 👯 I’m looking to collaborate on **RetroGaming Handhelds**.
@@ -12,6 +10,7 @@ Hello!
 
 - [Moonlight Miyoo Mini+](GitHub_Link) - A PoC of Moonlight Embedded running on the Miyoo Mini Plus
 - [Pico-8 Miyoo Mini/Miyoo Mini+](GitHub_Link) - Official Pico-8 support for the Miyoo Mini/Plus
+- 
 - [Core dev on OnionOS for the Miyoo Mini line of devices](https://github.com/OnionUI/Onion) - Check us out!
 
 ## Socials
