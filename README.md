@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **C/C++**.
+- 🌱 I’m currently learning **C/C++/Linux Embedded/Sigmastar SSD202D**.
 - 👯 I’m looking to collaborate on **RetroGaming Handhelds**.
 - 📫 How to reach me: **You can get me on Discord: `_xk_`**
 
