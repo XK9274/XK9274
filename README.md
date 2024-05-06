@@ -17,8 +17,8 @@
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/xk9274)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/XK9274)
-
-[![Add me on discord (_xk_)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/_xk_)
+[![GitHub - OnionOs](https://img.shields.io/badge/GitHub-OnionOs-7147c2?logo=RetroArch)](https://github.com/OnionUI/Onion)
+[![Discord - _xk_](https://img.shields.io/badge/Discord-__xk__-7147c2?logo=discord)](https://discord.com/users/_xk_)
 
 
 ## Support Me
