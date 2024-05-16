@@ -10,7 +10,7 @@
 
 - [Moonlight Miyoo Mini+](https://github.com/XK9274/moonlight-app-miyoo) - A PoC of Moonlight Embedded running on the Miyoo Mini Plus
 - [Pico-8 Miyoo Mini/Miyoo Mini+](https://github.com/XK9274/pico-8-wrapper-miyoo) - Official Pico-8 support for the Miyoo Mini/Plus
-- [Syncthing Miyoo Mini/Miyoo Mini+](https://github.com/XK9274/syncthing-app-miyoo) - Official Pico-8 support for the Miyoo Mini/Plus
+- [Syncthing Miyoo Mini/Miyoo Mini+](https://github.com/XK9274/syncthing-app-miyoo) - Syncthing support for the Miyoo Mini/Plus
 - [Core dev on OnionOS for the Miyoo Mini line of devices](https://github.com/OnionUI/Onion) - Check us out!
 
 ## Socials
