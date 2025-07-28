@@ -5,6 +5,9 @@
 ## Current Projects
 
 - [scrapbook-md](https://github.com/XK9274/scrapbook-md) - Quick and easy notes tool w/ CLI - formats to a Docusaurus frontend with mermaid support, via docker composer or npm start.
+- project-ph-io
+- project-tui
+- project-gui
   
 ## Previous Projects
 
