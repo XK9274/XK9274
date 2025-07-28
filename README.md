@@ -2,7 +2,11 @@
 - 👯 I’m looking to collaborate on **RetroGaming Handhelds**.
 - 📫 How to reach me: **You can get me on Discord: `_xk_`**
 
-## Projects
+## Current Projects
+
+- [scrapbook-md](https://github.com/XK9274/scrapbook-md) - Quick and easy notes tool w/ CLI - formats to a Docusaurus frontend with mermaid support, via docker composer or npm start.
+  
+## Previous Projects
 
 - [Moonlight Miyoo Mini+](https://github.com/XK9274/moonlight-app-miyoo) - A PoC of Moonlight Embedded running on the Miyoo Mini Plus
 - [Pico-8 Miyoo Mini/Miyoo Mini+](https://github.com/XK9274/pico-8-wrapper-miyoo) - Native Pico-8 support for the Miyoo Mini/Plus
