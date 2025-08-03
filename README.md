@@ -22,7 +22,3 @@
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DXK9274%26type%3Dpatrons&style=flat)](https://patreon.com/XK9274)
 [![GitHub - OnionOs](https://img.shields.io/badge/GitHub-OnionOs-7147c2?logo=RetroArch)](https://github.com/OnionUI/Onion)
 [![Discord - _xk_](https://img.shields.io/badge/Discord-__xk__-7147c2?logo=discord)](https://discord.com/users/_xk_)
-
-## Support Me
-
-If you like what I'm doing, please consider supporting me on [Ko-fi](https://ko-fi.com/xk9274) or [Patreon](https://www.patreon.com/XK9274)!
