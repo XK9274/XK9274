@@ -7,7 +7,7 @@
 - [personal-site](https://slipp.space) - Personal content deployment & react project
 - [scrapbook-md](https://github.com/XK9274/scrapbook-md) - Quick and easy notes tool w/ CLI - formats to a Docusaurus frontend with mermaid support, via docker composer or npm start.
 - [cloudflare-analytics](https://github.com/XK9274/cloudflare-analytics-display) - A simple self hosted analytics display for widescreen touch monitors from aliexpress.
-- [miyoo-sdl2-benchmarks]([https://github.com/XK9274/cloudflare-analytics-display](https://github.com/XK9274/miyoo_sdl2_benchmarks)) - Testing a new SDL2 implementation
+- [miyoo-sdl2-benchmarks](https://github.com/XK9274/miyoo_sdl2_benchmarks) - Testing a new SDL2 implementation
 - project-ph-io
 - project-tui
 - project-gui
