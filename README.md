@@ -5,7 +5,6 @@
 ## Current Projects
 
 - [personal-site](https://slipp.space) - Personal content deployment & react project
-- [cloudflare-analytics](https://github.com/XK9274/cloudflare-analytics-display) - A simple self hosted analytics display for widescreen touch monitors from aliexpress.
 - [miyoo-sdl2-benchmarks](https://github.com/XK9274/miyoo_sdl2_benchmarks) - Testing a new SDL2 implementation
 - project-ph-io
 - project-gui
