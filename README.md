@@ -5,10 +5,9 @@
 ## Current Projects
 
 - [personal-site](https://slipp.space) - Personal content deployment & react project
+- [sdl2_miyoo](https://github.com/XK9274/sdl2_miyoo) - Mini/Plus Dedicated SDL2 backend. 
 - [miyoo-sdl2-benchmarks](https://github.com/XK9274/miyoo_sdl2_benchmarks) - Testing a new SDL2 implementation
-- project-ph-io
-- project-gui
-- project-ff
+
   
 ## Previous Projects
 
