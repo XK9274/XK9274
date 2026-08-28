@@ -1,7 +1,3 @@
-- 🌱 I’m currently learning **C/C++/Linux Embedded/Sigmastar SSD202D**.
-- 👯 I’m looking to collaborate on **RetroGaming Handhelds**.
-- 📫 How to reach me: **You can get me on Discord: `_xk_`**
-
 ## Current Projects
 
 - [personal-site](https://slipp.space) - Personal content deployment & react project
